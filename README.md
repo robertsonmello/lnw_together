@@ -1,4 +1,6 @@
-Repositório 
+Repositório LNW TOGETHER
 ======================== 
 
-O Git/GitHub são legais!
+Projeto de um APP para o curso intensivo da Rocketseat para o próximo nível
+
+Tecnologia utilizada React.Js
